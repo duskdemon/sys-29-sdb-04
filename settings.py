@@ -1,0 +1,1 @@
+URI = 'amqp://dusk:dusk@localhost:5672/'
